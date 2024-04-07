@@ -1,0 +1,218 @@
+{
+  "profile": {
+    "name": "Hersya Rahmadhani",
+    "job": "Wanita karir",
+    "avatar": "img/profile/rapunsel.jpg",
+    "aboutMe": "Saya merupakan wanita cantik yang memiliki karir yang bagus sehingga memiliki tabungan 271T di rekening",
+    "socialNetwork": [
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/hrsyaa.rr/"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "Tanah Putih",
+    "value": "11 November 2004",
+    "url": "https://dl.lanno.dev/share/GppwRUSq0tOPCjWy/files/703b5c3a-ff83-4ce9-8607-fc86d0ac09eb"
+  },
+  "information": [
+    {
+      "icon": "EnvelopeIcon",
+      "name": "hr@gmail.com",
+      "value": "Email kantor"
+    },
+    {
+      "icon": "CakeIcon",
+      "name": "Telah berdiri sejak 24 tahun yang lalu ",
+      "value": "20 oktober 2000"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "0813-6454-7211",
+      "value": "No handphone"
+    },
+    {
+      "icon": "ComputerDesktopIcon",
+      "name": "Jl.sukajadi secondchoice",
+      "value": "Alamat"
+    }
+  ],
+  "skill": [
+    "Cantik",
+    "Baik",
+    "Berbakat",
+    "Anggung",
+    "Cerdas",
+    "Tidak sombong",
+    "Lucu",
+    "Menggemaskan",
+    "Second Choice",
+    "Pintar",
+    "Lovely",
+    "Nice Girl",
+    "Jenius",
+    "Extraordinary",
+    "Swag",
+    "Awesome",
+    "Good Voice",
+    "Rajin",
+    "Bijak",
+    "Motivator",
+    "Strong Woman",
+    "Anti nangis club",
+    "Sholehah" 
+  ],
+  "language": [
+    {
+      "name": "Indonesia",
+      "code": "pt-BR",
+      "flag": "svg/indonesia.svg",
+      "level": "Riau-Pekanbaru"
+    },
+    {
+      "name": "South-Korea",
+      "code": "en-US",
+      "flag": "svg/south-korea.svg",
+      "level": "Seoul"
+    }
+  ],
+  "experience": [
+    {
+      "job": "HR Entertaiment",
+      "company": "CEO Hersya Rahmadhani",
+      "companyLogo": "img/company/HR.jpg",
+      "location": "Indonesia-Pekanbaru",
+      "workType": "Fulltime",
+      "start": "Berdiri dari tahun 2000",
+      "end": "Sekarang",
+      "description": "Saya mendirikan perusahaan ini ketika saya berumur 20 tahun. Saat itu saya hanya memiliki 3 orang kepercayaan saya yang bisa saya ajak untuk berpastisipasi pada pembangunan usaha ini, yaitu teman teman saya. Butuh waktu yang sangat panjang untuk mendirikan HR entertaiment hingga bisa seperti sekarang ini. Banyak ujian yang telah di lalui hingga Hr bisa seperti sekarang. Dan saat ini saya memiliki 1000+ karyawan di HR entertaiment"
+    },
+    {
+      "job": "Rekan 3s",
+      "company": "ORPEN",
+      "companyLogo": "img/company/founder.jpg",
+      "location": "Indonesia-Pekanbaru",
+      "workType": "Fulltime",
+      "start": "2002",
+      "end": "Sekarang",
+      "description": "Saya sangat senang ketemu orang orang hebat seperti bg hanif dan bg tegar yang sangat menegerti keadaan adik tingkatnya dalam keterlambatan mengumpul tugas, semoga mereka banyak dapat thr di lebaran tahun ini"
+    }
+  ],
+  "education": [
+    {
+      "college": "Harvard University",
+      "collegeLogo": "img/college/harvard.jpg",
+      "course": "Teknik Informatika - Fakultas Teknik",
+      "start": "2016",
+      "end": "2020",
+      "url": "https://www.xpeducacao.com.br/pos-graduacao/desenvolvimento-front-end?evento=dev_summit"
+    },
+    {
+      "college": "Lakeside School",
+      "collegeLogo": "img/college/lakeside.jpg",
+      "course": "Teknologi Komputer",
+      "start": "2020",
+      "end": "2024",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "job": "Team Edit",
+      "company": "HR Coordinator",
+      "companyLogo": "img/company/green-peace.jpg",
+      "location": "Indonesia-Pekanbaru",
+      "workType": "Remote",
+      "start": "2010 ",
+      "end": "Sekarang",
+      "description": "Team ini sudah berdiri sejak 14 tahun yang lalu, dimana grafik perusahaan HR mulai meningkat"
+    }
+  ],
+  "certificate": [
+    {
+      "course": "Microsoft Azure Data Engineering Associate (DP-203)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2000",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering"
+    },
+    {
+      "course": "Microsoft 365 Fundamentals",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2001",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-365-fundamentals"
+    },
+    {
+      "course": "Microsoft Azure Fundamentals AZ-900 Exam Prep",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2002",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900"
+    },
+    {
+      "course": "Microsoft Azure Data Scientist Associate (DP-100)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2003",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/azure-data-scientist"
+    },
+    {
+      "course": "Microsoft Azure AI Fundamentals AI-900 Exam Prep",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2004",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals"
+    },
+    {
+      "course": "Microsoft Azure Developer Associate (AZ-204)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2005",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/azure-developer-associate"
+    },
+    {
+      "course": "Work Smarter with Microsoft Excel",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2006",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/learn/microsoft-excel-work-smarter"
+    }
+  ],
+  "project": [
+    {
+      "name": "Visual Studio Code",
+      "description": "Sponsor pertama di perusahaan HR entertaiment",
+      "language": "Typescript",
+      "image": "img/project/vscode.png",
+      "stars": "+138k",
+      "forks": "23.8k",
+      "url": "https://github.com/microsoft/vscode"
+    },
+    {
+      "name": "TypeScript",
+      "description": "Sponsor Utama (VVIP) di perusahaan HR entertaiment",
+      "language": "Typescript",
+      "image": "img/project/typescript.png",
+      "stars": "+85.3k",
+      "forks": "11.1k",
+      "url": "https://github.com/microsoft/TypeScript"
+    }
+  ]
+}
